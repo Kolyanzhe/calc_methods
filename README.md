@@ -1,1 +1,2 @@
-# calc_methods
+# Лабы
+
