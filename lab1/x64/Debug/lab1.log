@@ -1,3 +1,5 @@
 ﻿  lab1.cpp
-C:\Users\ННН\Desktop\Вычи_лабы\lab1\lab1.cpp(58,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ННН\Desktop\Вычи_лабы\lab1\Header.h(119,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ННН\Desktop\Вычи_лабы\lab1\Header.h(136,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ННН\Desktop\Вычи_лабы\lab1\Header.h(145): warning C4715: Matrix::qrDecomposition: значение возвращается не при всех путях выполнения
   lab1.vcxproj -> C:\Users\ННН\Desktop\Вычи_лабы\lab1\x64\Debug\lab1.exe

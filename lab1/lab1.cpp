@@ -21,7 +21,7 @@ int main() {
         data[i][j] = s;
         }
     }
-    //Matrix A(n, n, data);
+    Matrix A(n, n, data);
 
     vector<typenam> b(n, 0);
     for (int i = 0; i < n; i++) {  //ñ÷èòûâàåì ñòîëáåö ïðàâîé ÷àñòè   
@@ -52,16 +52,10 @@ int main() {
     //}
     //cout << "Norma nevyazki: " << norm1(b_b1) << endl; 
 
-    // Пример исходной матрицы A
-    vector<vector<double>> A = data;
-    
-    n = A.size();
 
-    // Создаем матрицы Q и R
-    vector<vector<double>> Q, R;
     vector<typenam> x;
     // Выполняем QR-разложение
-    x = qrDecomposition(A, R, Q, b);
+    x = A.qrDecomposition(b);
     for (size_t i = 0; i < x.size(); i++) {
         cout << x[i] << endl;
     }
