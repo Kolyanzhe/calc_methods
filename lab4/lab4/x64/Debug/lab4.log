@@ -1,0 +1,11 @@
+﻿  CVector.cpp
+C:\Users\ННН\Desktop\Вычи_лабы\lab4\lab4\Header.h(204,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ННН\Desktop\Вычи_лабы\lab4\lab4\Header.h(205,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  lab4.cpp
+C:\Users\ННН\Desktop\Вычи_лабы\lab4\lab4\Header.h(204,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ННН\Desktop\Вычи_лабы\lab4\lab4\Header.h(205,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Source.cpp
+C:\Users\ННН\Desktop\Вычи_лабы\lab4\lab4\Header.h(204,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\ННН\Desktop\Вычи_лабы\lab4\lab4\Header.h(205,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  lab4.vcxproj -> C:\Users\ННН\Desktop\Вычи_лабы\lab4\lab4\x64\Debug\lab4.exe
